@@ -1,0 +1,23 @@
+**Database Name: imperial_college
+
+adminLogin** 
+**usere : admin@gmail.com
+passowrd : admin123*
+
+** 
+
+doctor Login 
+
+usrer : staff1@gmail.com
+
+
+Password: teacher123*
+
+
+
+
+student Login 
+
+usrer : hh
+
+Password: 9656899
